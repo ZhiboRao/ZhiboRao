@@ -1,10 +1,5 @@
 ### Hi there 👋
-
-<!--
-**RaoHaocheng/Raohaocheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+![](https://github-readme-stats.vercel.app/api?username=mayandev)
 - 🔭 I’m currently working on Northwestern Polytechnical University
 - 🌱 I’m currently learning computer vision
 - 👯 I’m looking to collaborate on Archaic-Atom
@@ -12,5 +7,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about stereo matching
 - 📫 How to reach me: raoxi36@foxmail.com
 - 😄 Pronouns: Jack Tao
-- ⚡ Fun fact: I'm a PHD.
+- ⚡ Fun fact: I can't believe I'm a PHD.
+
+<!--
+**RaoHaocheng/Raohaocheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
