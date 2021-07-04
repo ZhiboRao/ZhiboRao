@@ -7,7 +7,7 @@ Hi there 👋
 - 🤔 I’m looking for help with Deep learning
 - 💬 Ask me about stereo matching
 - 📫 How to reach me: raoxi36@foxmail.com
-- 😄 Pronouns: Jack Tao
+- 😄 Pronouns: Jack Rao
 - ⚡ Fun fact: I can't believe I'm a PHD.
 
 ✨ The coding language used in last week
