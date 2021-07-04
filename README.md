@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![](https://github-readme-stats.vercel.app/api?username=Raohaocheng)
+![](https://gist.github.com/RaoHaocheng/71386b17f44f7f9265e38f0ec69efab0)
 - 🔭 I’m currently working on Northwestern Polytechnical University
 - 🌱 I’m currently learning computer vision
 - 👯 I’m looking to collaborate on Archaic-Atom
