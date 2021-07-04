@@ -1,10 +1,6 @@
-### Hi there 👋
+Hi there 👋
 ![](https://github-readme-stats.vercel.app/api?username=Raohaocheng)
-<!--START_SECTION:waka-->
-```text
-Python                22 mins         ████████████████████████▓   98.57 % 
-```
-<!--END_SECTION:waka-->
+
 - 🔭 I’m currently working on Northwestern Polytechnical University
 - 🌱 I’m currently learning computer vision
 - 👯 I’m looking to collaborate on Archaic-Atom
@@ -14,10 +10,11 @@ Python                22 mins         ██████████████
 - 😄 Pronouns: Jack Tao
 - ⚡ Fun fact: I can't believe I'm a PHD.
 
-<!--
-**RaoHaocheng/Raohaocheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ The coding language used in last week
+<!--START_SECTION:waka-->
+```text
+Python                22 mins         ████████████████████████▓   98.57 % 
+```
+<!--END_SECTION:waka-->
 
-Here are some ideas to get you started:
 
-
--->
