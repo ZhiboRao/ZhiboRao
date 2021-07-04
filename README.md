@@ -1,6 +1,9 @@
 ### Hi there 👋
 ![](https://github-readme-stats.vercel.app/api?username=Raohaocheng)
 <!--START_SECTION:waka-->
+```text
+Python                22 mins         ████████████████████████▓   98.57 % 
+```
 <!--END_SECTION:waka-->
 - 🔭 I’m currently working on Northwestern Polytechnical University
 - 🌱 I’m currently learning computer vision
