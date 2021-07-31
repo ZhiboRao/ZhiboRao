@@ -2,6 +2,8 @@ Hi there 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=Raohaocheng)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raohaocheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on Northwestern Polytechnical University
 - 🌱 I’m currently learning computer vision
 - 👯 I’m looking to collaborate on Archaic-Atom
@@ -18,4 +20,4 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-
+![Visitor Count](https://profile-counter.glitch.me/Raohaocheng/count.svg)
