@@ -15,7 +15,7 @@ Hi there 👋
 ✨ The coding language used in last week
 <!--START_SECTION:waka-->
 ```text
-Week: 10 August, 2021 - 16 August, 2021
+Week: 11 August, 2021 - 17 August, 2021
 
 Python   5 hrs 20 mins   ████████████████████░░░░░   79.38 % 
 C++      47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
