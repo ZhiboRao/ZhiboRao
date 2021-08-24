@@ -15,7 +15,7 @@ Hi there 👋
 ✨ The coding language used in last week
 <!--START_SECTION:waka-->
 ```text
-Week: 16 August, 2021 - 22 August, 2021
+Week: 17 August, 2021 - 23 August, 2021
 
 BibTeX   10 mins         █████████████████████▓░░░   86.76 % 
 Other    1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
