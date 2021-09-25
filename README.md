@@ -15,7 +15,7 @@ Hi there 👋
 ✨ The coding language used in last week
 <!--START_SECTION:waka-->
 ```text
-Week: 17 September, 2021 - 23 September, 2021
+Week: 18 September, 2021 - 24 September, 2021
 
 TeX          18 hrs 16 mins  ██████████████████████▒░░   89.57 % 
 Python       51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
