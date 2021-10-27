@@ -15,9 +15,9 @@ Hi there 👋
 ✨ The coding language used in last week
 <!--START_SECTION:waka-->
 ```text
-Week: 19 October, 2021 - 25 October, 2021
+Week: 20 October, 2021 - 26 October, 2021
 
-TeX   8 hrs 37 mins   █████████████████████████   100.00 % 
+TeX   7 hrs 43 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
