@@ -15,7 +15,7 @@ Hi there 👋
 ✨ The coding language used in last week
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2022 - 04 February, 2022
+Week: 30 January, 2022 - 05 February, 2022
 
 Other    7 hrs 21 mins   █████████████████████████   99.43 % 
 Python   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
