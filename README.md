@@ -15,11 +15,11 @@ Hi there 👋
 ✨ The coding language used in last week
 <!--START_SECTION:waka-->
 ```text
-Week: 10 February, 2022 - 16 February, 2022
+Week: 11 February, 2022 - 17 February, 2022
 
 Total: 0 secs
 
-Other   1 hr 56 mins    █████████████████████████   100.00 % 
+Other    1 hr 41 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
