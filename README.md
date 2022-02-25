@@ -15,7 +15,7 @@ Hi there 👋
 ✨ The coding language used in last week
 <!--START_SECTION:waka-->
 ```text
-From: 16 February, 2022 - To: 23 February, 2022
+From: 17 February, 2022 - To: 24 February, 2022
 
 Python                4 hrs 58 mins   ███████████████████████▓░   94.33 % 
 Sublime Text Config   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
