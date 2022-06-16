@@ -16,7 +16,7 @@ Hi there 👋
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 June 2022 - To: 14 June 2022
+From: 09 June 2022 - To: 16 June 2022
 
 TeX   2 hrs 28 mins   █████████████████████████   100.00 %
 ```
