@@ -16,7 +16,9 @@ Hi there 👋
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 19 August 2022 - To: 26 August 2022
+
+TeX   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
