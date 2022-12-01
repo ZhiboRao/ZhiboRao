@@ -16,9 +16,9 @@ Hi there 👋
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 November 2022 - To: 29 November 2022
+From: 23 November 2022 - To: 30 November 2022
 
-Other      17 hrs 42 mins  ████████████████████████░   96.20 %
+Other        14 hrs 42 mins  ██████████████████████▒░░   89.14 %
 ```
 
 <!--END_SECTION:waka-->
