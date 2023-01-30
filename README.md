@@ -16,7 +16,9 @@ Hi there 👋
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 22 January 2023 - To: 29 January 2023
+
+TeX   5 hrs 46 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
