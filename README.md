@@ -16,10 +16,9 @@ Hi there 👋
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 February 2023 - To: 21 February 2023
+From: 15 February 2023 - To: 22 February 2023
 
-BibTeX   22 mins         █████████████████▓░░░░░░░   70.07 %
-TeX      9 mins          ███████▒░░░░░░░░░░░░░░░░░   29.93 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
