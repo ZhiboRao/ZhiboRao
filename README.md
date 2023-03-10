@@ -16,10 +16,9 @@ Hi there 👋
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 March 2023 - To: 08 March 2023
+From: 02 March 2023 - To: 09 March 2023
 
-Text     1 min           ██████████████▓░░░░░░░░░░   58.65 %
-BibTeX   1 min           ██████████▒░░░░░░░░░░░░░░   41.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
