@@ -1,7 +1,7 @@
 Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=Raohaocheng)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raohaocheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=ZhiboRao)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiboRao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Northwestern Polytechnical University
 - 🌱 I’m currently learning computer vision
