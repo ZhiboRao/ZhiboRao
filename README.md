@@ -13,6 +13,7 @@ Hi there 👋
 - ⚡ Fun fact: I can't believe I'm a Ph.D.
 
 Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-4243-9eea-732ade32c0b7.svg)](https://wakatime.com/@51ec5ec7-4742-4243-9eea-732ade32c0b7)
+
 ✨ The coding language used last week 
 <!--START_SECTION:waka-->
 ```txt
