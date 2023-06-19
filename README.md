@@ -16,14 +16,15 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 
 ✨ The coding language used last week 
 <!--START_SECTION:waka-->
-```txt
-From: 10 June 2023 - To: 17 June 2023
 
-Other    9 hrs 42 mins   ███████████████████░░░░░░   75.62 %
-TeX      1 hr 54 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
-Python   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-Bash     26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-sh       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+```txt
+From: 11 June 2023 - To: 18 June 2023
+
+Other    8 hrs 20 mins   ███████████████████▒░░░░░   76.99 %
+TeX      1 hr 41 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+Python   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+sh       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Bash     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
