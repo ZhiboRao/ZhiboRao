@@ -22,13 +22,13 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2023 - To: 31 July 2023
+From: 25 July 2023 - To: 01 August 2023
 
-Other         17 hrs 39 mins  ████████████████▓░░░░░░░░   66.07 %
-Python        4 hrs 56 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.51 %
-sh            3 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
-Bash          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Objective-C   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Other         15 hrs 38 mins  ████████████████░░░░░░░░░   64.34 %
+Python        4 hrs 53 mins   █████░░░░░░░░░░░░░░░░░░░░   20.15 %
+sh            2 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+Bash          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Groff         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
