@@ -22,13 +22,13 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2023 - To: 24 August 2023
+From: 18 August 2023 - To: 25 August 2023
 
-TeX      4 hrs 16 mins   ██████████████████░░░░░░░   72.00 %
-Python   46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
-CSV      24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-sh       16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-Text     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+TeX      7 hrs           █████████████████▒░░░░░░░   68.76 %
+Other    48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+Python   46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+MATLAB   31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+CSV      24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 ```
 
 <!--END_SECTION:waka-->
