@@ -22,7 +22,7 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2023 - To: 17 September 2023
+From: 11 September 2023 - To: 18 September 2023
 
 C++        3 hrs 42 mins   █████████░░░░░░░░░░░░░░░░   35.91 %
 Bash       2 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   24.40 %
