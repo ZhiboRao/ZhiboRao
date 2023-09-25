@@ -22,13 +22,13 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2023 - To: 23 September 2023
+From: 17 September 2023 - To: 24 September 2023
 
-sh             6 hrs 48 mins   ████████████░░░░░░░░░░░░░   48.30 %
-Bash           6 hrs           ██████████▓░░░░░░░░░░░░░░   42.64 %
-CMake          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-ActionScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-C++            17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+sh             6 hrs 1 min     ██████████████▒░░░░░░░░░░   58.00 %
+Bash           3 hrs 55 mins   █████████▒░░░░░░░░░░░░░░░   37.77 %
+ActionScript   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+CMake          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Ezhil          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
