@@ -22,10 +22,9 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2023 - To: 06 October 2023
+From: 30 September 2023 - To: 07 October 2023
 
-sh     21 mins         ██████████████████████░░░   88.16 %
-JSON   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+sh   6 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
