@@ -22,12 +22,11 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 October 2023 - To: 22 October 2023
+From: 16 October 2023 - To: 23 October 2023
 
-Python   2 hrs 47 mins   ████████████████████▓░░░░   83.00 %
-sh       24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
-Bash     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-JSON     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+sh       20 mins         ███████████████████▓░░░░░   79.27 %
+Other    4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.82 %
+Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
