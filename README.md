@@ -22,11 +22,12 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2023 - To: 11 December 2023
+From: 06 December 2023 - To: 13 December 2023
 
-Python   3 mins          █████████████▓░░░░░░░░░░░   55.18 %
-Bash     2 mins          ███████████░░░░░░░░░░░░░░   43.48 %
-sh       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Bash         15 mins         █████████████████████▓░░░   86.81 %
+TeX          2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+sh           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
