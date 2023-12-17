@@ -22,7 +22,7 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2023 - To: 16 December 2023
+From: 10 December 2023 - To: 17 December 2023
 
 Bash         12 mins         █████████████████████░░░░   83.61 %
 TeX          2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
