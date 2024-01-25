@@ -22,13 +22,13 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2024 - To: 24 January 2024
+From: 18 January 2024 - To: 25 January 2024
 
-sh                    1 hr 53 mins    ██████████████░░░░░░░░░░░   55.67 %
-Python                28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
-Other                 28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
-Bash                  18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-Sublime Text Config   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+sh                    1 hr 54 mins    █████████████████▓░░░░░░░   70.43 %
+Other                 25 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+JSON                  8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Sublime Text Config   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Markdown              5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 ```
 
 <!--END_SECTION:waka-->
