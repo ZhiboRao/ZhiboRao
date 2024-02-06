@@ -22,13 +22,13 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 January 2024 - To: 05 February 2024
+From: 30 January 2024 - To: 06 February 2024
 
-C++          21 mins         ████████▓░░░░░░░░░░░░░░░░   34.75 %
-sh           19 mins         ███████▓░░░░░░░░░░░░░░░░░   31.13 %
-Git Config   13 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.33 %
-Python       5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-C            1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+C++          38 mins         ████████▓░░░░░░░░░░░░░░░░   34.08 %
+Python       33 mins         ███████▓░░░░░░░░░░░░░░░░░   30.36 %
+sh           19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
+Git Config   13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
+Other        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
 ```
 
 <!--END_SECTION:waka-->
