@@ -22,13 +22,13 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 April 2024 - To: 28 April 2024
+From: 22 April 2024 - To: 29 April 2024
 
-sh       59 mins         ████████████░░░░░░░░░░░░░   48.01 %
-Python   55 mins         ███████████▒░░░░░░░░░░░░░   45.02 %
-Text     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-MATLAB   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-TeX      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Python   55 mins         ██████████████░░░░░░░░░░░   56.41 %
+sh       28 mins         ███████░░░░░░░░░░░░░░░░░░   28.63 %
+Text     5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+JSON     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+TeX      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
 <!--END_SECTION:waka-->
