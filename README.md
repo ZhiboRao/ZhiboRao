@@ -22,13 +22,13 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2024 - To: 30 May 2024
+From: 24 May 2024 - To: 31 May 2024
 
-MATLAB       1 hr 1 min      ███████████████▒░░░░░░░░░   61.80 %
-Markdown     24 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.97 %
-sh           10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-TeX          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+MATLAB       1 hr 1 min      ███████████████░░░░░░░░░░   59.80 %
+Markdown     24 mins         ██████░░░░░░░░░░░░░░░░░░░   24.17 %
+sh           10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+TeX          5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
