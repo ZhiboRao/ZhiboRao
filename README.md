@@ -22,13 +22,13 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2024 - To: 15 June 2024
+From: 09 June 2024 - To: 16 June 2024
 
-Other                 12 hrs 22 mins  ███████████████░░░░░░░░░░   59.81 %
-Python                2 hrs 59 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
-TeX                   2 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
-OpenEdge ABL          1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-sh                    23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Other                 17 hrs 15 mins  ████████████████████▒░░░░   80.82 %
+TeX                   2 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+OpenEdge ABL          1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+Markdown              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+sh                    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
