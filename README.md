@@ -22,11 +22,11 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2024 - To: 27 June 2024
+From: 21 June 2024 - To: 28 June 2024
 
-Other   15 hrs 46 mins  ██████████████████████▓░░   91.10 %
-TeX     1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
-CMake   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Other   15 hrs 17 mins  ██████████████████████▓░░   91.33 %
+TeX     1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+CMake   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 sh      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
