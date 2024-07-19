@@ -22,7 +22,7 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2024 - To: 17 July 2024
+From: 11 July 2024 - To: 18 July 2024
 
 TeX          4 hrs 28 mins   ███████████████████▓░░░░░   78.67 %
 BibTeX       30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
