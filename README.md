@@ -22,13 +22,13 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2024 - To: 24 July 2024
+From: 18 July 2024 - To: 25 July 2024
 
-Python   2 hrs 43 mins   ███████████░░░░░░░░░░░░░░   44.44 %
-TeX      1 hr 46 mins    ███████▒░░░░░░░░░░░░░░░░░   29.04 %
-sh       59 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
-BibTeX   30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-Bash     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Python   3 hrs 8 mins    ████████████░░░░░░░░░░░░░   47.68 %
+TeX      1 hr 46 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.95 %
+sh       1 hr 2 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
+BibTeX   30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+Bash     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
