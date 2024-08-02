@@ -22,10 +22,11 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2024 - To: 31 July 2024
+From: 25 July 2024 - To: 01 August 2024
 
-sh       52 mins         █████████████▓░░░░░░░░░░░   54.34 %
-Python   44 mins         ███████████▒░░░░░░░░░░░░░   45.66 %
+sh       49 mins         ███████████████▓░░░░░░░░░   62.95 %
+Python   29 mins         █████████░░░░░░░░░░░░░░░░   36.62 %
+TeX      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
