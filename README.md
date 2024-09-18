@@ -22,13 +22,13 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2024 - To: 16 September 2024
+From: 10 September 2024 - To: 17 September 2024
 
-Python                4 hrs 14 mins   ██████████▒░░░░░░░░░░░░░░   41.47 %
-sh                    2 hrs 51 mins   ███████░░░░░░░░░░░░░░░░░░   28.02 %
-HTML                  2 hrs 49 mins   ███████░░░░░░░░░░░░░░░░░░   27.58 %
-TeX                   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-CSS                   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Python                4 hrs 30 mins   ██████████▓░░░░░░░░░░░░░░   42.35 %
+sh                    3 hrs           ███████░░░░░░░░░░░░░░░░░░   28.24 %
+HTML                  2 hrs 49 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.59 %
+TeX                   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+CSS                   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
