@@ -22,13 +22,13 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2024 - To: 27 September 2024
+From: 21 September 2024 - To: 28 September 2024
 
-Python     1 hr 33 mins    █████████████▒░░░░░░░░░░░   53.31 %
-sh         48 mins         ███████░░░░░░░░░░░░░░░░░░   27.84 %
-YAML       20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
-Markdown   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-CMake      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+sh         48 mins         ███████████▓░░░░░░░░░░░░░   46.23 %
+Python     27 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.07 %
+YAML       16 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
+Markdown   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+CMake      4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
 ```
 
 <!--END_SECTION:waka-->
