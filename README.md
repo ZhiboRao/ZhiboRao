@@ -22,10 +22,9 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2024 - To: 04 October 2024
+From: 28 September 2024 - To: 05 October 2024
 
-sh       16 mins         ████████████████████████▒   97.06 %
-Python   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+sh   10 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
