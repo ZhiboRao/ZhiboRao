@@ -22,13 +22,13 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 December 2024 - To: 12 December 2024
+From: 06 December 2024 - To: 13 December 2024
 
-Other    19 hrs 43 mins  █████████████████████▓░░░   86.61 %
-sh       1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-Python   1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-Bash     24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-JSON     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Other    18 hrs 16 mins  ████████████████████▓░░░░   82.39 %
+sh       2 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+Python   1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Bash     24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+JSON     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
