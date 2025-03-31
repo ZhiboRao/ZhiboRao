@@ -22,13 +22,13 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 March 2025 - To: 29 March 2025
+From: 23 March 2025 - To: 30 March 2025
 
-Other    15 hrs 49 mins  ██████████████▒░░░░░░░░░░   57.52 %
-Python   8 hrs 42 mins   ████████░░░░░░░░░░░░░░░░░   31.64 %
-sh       2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-Bash     37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-JSON     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Other    16 hrs 20 mins  ███████████████▒░░░░░░░░░   61.09 %
+Python   7 hrs           ██████▓░░░░░░░░░░░░░░░░░░   26.21 %
+sh       2 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+Bash     29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+JSON     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
