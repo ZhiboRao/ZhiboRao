@@ -22,11 +22,11 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2025 - To: 31 August 2025
+From: 25 August 2025 - To: 01 September 2025
 
-Other    14 hrs 52 mins  █████████████████████▒░░░   85.86 %
-Python   1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-sh       1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+Other    14 hrs 43 mins  ███████████████████████▒░   92.88 %
+sh       46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Python   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
