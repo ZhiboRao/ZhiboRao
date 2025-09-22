@@ -22,11 +22,12 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2025 - To: 20 September 2025
+From: 14 September 2025 - To: 21 September 2025
 
-Other        18 hrs 13 mins  ███████████████████▓░░░░░   78.91 %
-Python       3 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
-sh           1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Other        18 hrs 27 mins  ███████████████████░░░░░░   75.73 %
+Python       5 hrs 17 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.71 %
+sh           21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Bash         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
