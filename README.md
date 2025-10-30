@@ -22,10 +22,11 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2025 - To: 28 October 2025
+From: 22 October 2025 - To: 29 October 2025
 
-Other   11 hrs 19 mins  ████████████████████████░   95.53 %
-sh      31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+Other   11 hrs 53 mins  ████████████████████████▒   97.51 %
+sh      15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+TeX     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
