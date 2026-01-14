@@ -22,10 +22,10 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2026 - To: 12 January 2026
+From: 06 January 2026 - To: 13 January 2026
 
-Other    14 hrs 1 min    █████████████████████████   99.51 %
-BibTeX   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Other    15 hrs 37 mins  █████████████████████████   99.56 %
+BibTeX   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
