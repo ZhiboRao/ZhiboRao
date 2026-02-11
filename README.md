@@ -47,6 +47,7 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 
 ✨ The coding language used last week 
 <!--START_SECTION:waka-->
+
 ```txt
 From: 03 February 2026 - To: 10 February 2026
 
@@ -56,6 +57,7 @@ sh       11 mins         ▒░░░░░░░░░░░░░░░░░�
 XML      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
+
 <!--END_SECTION:waka-->
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ZhiboRao&style=flat-square)
