@@ -49,13 +49,13 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 February 2026 - To: 18 February 2026
+From: 13 February 2026 - To: 20 February 2026
 
-Other                 10 hrs 22 mins        ██████████████▓░░░░░░░░░░   58.45 %
-Python                5 hrs 55 mins         ████████▒░░░░░░░░░░░░░░░░   33.39 %
-sh                    55 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-Bash                  31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Git Config            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Other                 12 hrs 31 mins        ███████████████░░░░░░░░░░   60.15 %
+Python                5 hrs 13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.11 %
+sh                    1 hr 20 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+TeX                   1 hr 1 min            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Bash                  37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
