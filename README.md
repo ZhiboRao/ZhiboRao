@@ -49,13 +49,13 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2026 - To: 18 April 2026
+From: 12 April 2026 - To: 19 April 2026
 
-Other              32 hrs 26 mins        ███████████████████░░░░░░   76.61 %
-Python             5 hrs 14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
-Markdown           2 hrs                 █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-Jupyter Notebook   1 hr 34 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-sh                 42 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Other              34 hrs 7 mins         ██████████████████▒░░░░░░   73.49 %
+Python             7 hrs 49 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
+Markdown           1 hr 51 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Jupyter Notebook   1 hr 34 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+sh                 41 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
