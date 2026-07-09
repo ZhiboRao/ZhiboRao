@@ -49,13 +49,13 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2026 - To: 08 July 2026
+From: 02 July 2026 - To: 09 July 2026
 
-Other         15 hrs 51 mins        ████████▒░░░░░░░░░░░░░░░░   33.26 %
-TeX           12 hrs 25 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.05 %
-Python        7 hrs 1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
-Markdown      4 hrs 39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-MATLAB        3 hrs 22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+Other         14 hrs 49 mins        ████████░░░░░░░░░░░░░░░░░   31.57 %
+TeX           14 hrs 5 mins         ███████▒░░░░░░░░░░░░░░░░░   29.99 %
+Python        6 hrs 52 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+Markdown      5 hrs 14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+MATLAB        3 hrs 22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
 ```
 
 <!--END_SECTION:waka-->
