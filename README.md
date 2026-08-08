@@ -49,13 +49,13 @@ Total coding time: [![wakatime](https://wakatime.com/badge/user/51ec5ec7-4742-42
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2026 - To: 07 August 2026
+From: 01 August 2026 - To: 08 August 2026
 
-Other        22 hrs 37 mins        █████████████████▒░░░░░░░   69.38 %
-Python       5 hrs 9 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
-Markdown     3 hrs 1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-Bash         1 hr 16 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-sh           17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Other        26 hrs 29 mins        ██████████████████░░░░░░░   71.42 %
+Python       4 hrs 28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
+Markdown     2 hrs 44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+Bash         1 hr 26 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Swift        1 hr 4 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 ```
 
 <!--END_SECTION:waka-->
